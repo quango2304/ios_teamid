@@ -1,6 +1,6 @@
 name: ios_teamid
 description: "flutter plugin to get team id"
-version: 0.0.1
+version: 0.0.2
 homepage: https://github.com/quango2304/ios_teamid
 
 environment:
