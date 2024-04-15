@@ -3,3 +3,5 @@
 add ios check
 ## 0.0.3
 add ios check
+## 0.0.4
+fix may got exception on web
